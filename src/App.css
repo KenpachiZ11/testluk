@@ -1,0 +1,33 @@
+.main-wrapper {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fafafa;
+}
+
+.position {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+  color: white;
+  font-size: 1rem;
+  text-shadow: 1px 1px black;
+}
+
+.iframe-wrapper {
+  width: 100%;
+  height: 100%;
+}
+
+.iframe-block {
+  width: 100%;
+  height: 96%;
+}
+
+.iframe-style {
+  width: 100%;
+  height: 100%;
+}
